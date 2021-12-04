@@ -23,7 +23,7 @@
    express, logger, mongoose, compression, then running the server.js file.
 
 ## Usage
-   To track financial transactions without the need for internet access.
+   ![usage-gif](./Assets/pwa-cof.gif)
 
 ## License
    MIT
