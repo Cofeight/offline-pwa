@@ -23,7 +23,7 @@
    express, logger, mongoose, compression, then running the server.js file.
 
 ## Usage
-   ![usage-gif](./Assets/pwa-cof.gif)
+   ![usage-gif](./assets/pwa-cof.gif)
 
 ## License
    MIT
